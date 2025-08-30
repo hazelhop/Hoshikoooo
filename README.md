@@ -13,7 +13,7 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ・🎯 Looking forward to collaborating on innovative and beginner-friendly projects, especially in the Discord ecosystem and Java development
 ・📫 How to reach me: Discord🔗
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/fKwkkpRpTv)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r6fp9rBpDN)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
