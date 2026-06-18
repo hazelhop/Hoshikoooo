@@ -33,3 +33,5 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 
 ## 🌟Featured Repository
 [![Loan-cakculator-app](https://github.com/hazelhop/Loan-calculator-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hazelhop&repo=Loan-calculator-app&theme=tokyonight)](https://github.com/hazelhop/Loan-calculator-app)
